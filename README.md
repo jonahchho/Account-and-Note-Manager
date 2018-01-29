@@ -14,25 +14,35 @@ Import the project and start the simulation.
 
 ## Screenshots
 - Home page
-![](img/home-page.PNG)
+The page that the user will first see when entering this app.
+![](img/home-page.png)
 
 - Reminder page
-![](img/reminder-page.PNG)
+Once, the user clicks the "Reminder" button in home page, the to-do list of current date shows up.
+![](img/reminder-page.png)
 
 - Statistics page
-![](img/statistics-page.PNG)
+Once, the user clicks the "Statistics" button in home page, he/she can check the expense of specific time and category.
+![](img/statistics-page.png)
 
 - Selection page
-![](img/selection-page.PNG)
+Once, the user picks a date and clicks the "Selection" button in home page, he/she can decide to add expense records or manage the to-do list.
+![](img/selection-page.png)
 
 - Account page
-![](img/account-page.PNG)
+Once, the user clicks the "Account" button in selection page, he/she can check the expense of specific category.
+![](img/account-page.png)
 
 - Note page
-![](img/note-page.PNG)
+Once, the user clicks the "Note" button in selection page, he/she can upate the to-do list.
+![](img/note-page.png)
 
 - Player page (video)
-![](img/player-page-v.PNG)
+This app provides user to record a video as a reminder.
+![](img/player-page-v.png)
 
 - Player page (sound)
-![](img/player-page-s.PNG)
+Also, users are available to save the reminder as an audio file.
+![](img/player-page-s.png)
+
+## Appendix
