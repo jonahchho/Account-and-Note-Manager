@@ -36,7 +36,7 @@ Once, the user picks a date and clicks the "Selection" button in home page, he/s
 - Account page
 
 Once, the user clicks the "Account" button in selection page, he/she can check the expense of specific category.
-![](img/account-page.png){:height="50%" width="50%"} 
+<img src="https://github.com/jonahchho/Account-and-Note-Manager/blob/master/img/account-page.png" height="50%" width="50%"> 
 
 - Note page
 
