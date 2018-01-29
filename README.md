@@ -79,6 +79,8 @@ The tables are as follows.
 |     EXPENSE OF OTHERS(int)     |
 |      EXPENSE OF TOTAL(int)     |
 
+<br/>
+<br/>
 
 |             ACCOUNT            |
 |:------------------------------:|
