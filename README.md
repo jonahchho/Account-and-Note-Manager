@@ -53,12 +53,41 @@ Once, the user clicks the "Note" button in selection page, he/she can upate the 
 
 This app provides user to record a video as a reminder.
 
-<img align="center" src="https://github.com/jonahchho/Account-and-Note-Manager/blob/master/img/player-page-v.png" height="20%" width="20%"> 
+<img align="center" src="https://github.com/jonahchho/Account-and-Note-Manager/blob/master/img/player-page-v.png" height="30%" width="30%"> 
 
 **- Player page (sound)**
 
 Also, users are available to save the reminder as an audio file.
 
-<img align="center" src="https://github.com/jonahchho/Account-and-Note-Manager/blob/master/img/player-page-s.png" height="20%" width="20%"> 
+<img align="center" src="https://github.com/jonahchho/Account-and-Note-Manager/blob/master/img/player-page-s.png" height="30%" width="30%"> 
 
 ## Appendix
+
+SQLite3 database is used in this application to store user's expense and to-do list.
+
+The tables are as follows.
+
+|             ACCOUNT            |
+|:------------------------------:|
+|            YEAR(int)           |
+|           MONTH(int)           |
+|            DAY(int)            |
+|      EXPENSE OF FOOD(int)      |
+|     EXPENSE OF CLOTHES(int)    |
+|     EXPENSE OF LIVING(int)     |
+| EXPENSE OF TRANSPORTATION(int) |
+|     EXPENSE OF OTHERS(int)     |
+|      EXPENSE OF TOTAL(int)     |
+
+
+|             ACCOUNT            |
+|:------------------------------:|
+|            YEAR(int)           |
+|           MONTH(int)           |
+|            DAY(int)            |
+|      EXPENSE OF FOOD(int)      |
+|     EXPENSE OF CLOTHES(int)    |
+|     EXPENSE OF LIVING(int)     |
+| EXPENSE OF TRANSPORTATION(int) |
+|     EXPENSE OF OTHERS(int)     |
+|      EXPENSE OF TOTAL(int)     |
